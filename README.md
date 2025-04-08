@@ -23,7 +23,7 @@ Welcome to the AI Agent for Real Estate Professionals. This application is desig
 
 ![AI agents graph](https://github.com/user-attachments/assets/364c8f3a-d59a-4da1-bab3-1af88fd0dc47)
 
-)
+
 
 1. **Initialization**: Starts at the `__start__` node.
 2. **Main Interaction Hub**: The `main_agent` directs users to specific functionalities.
