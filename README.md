@@ -21,7 +21,8 @@ Welcome to the AI Agent for Real Estate Professionals. This application is desig
 
 ### Application Workflow
 
-![AI agents graph](backend/graph.png)
+![AI agents graph](![image](https://github.com/user-attachments/assets/e48c808d-3f84-4e61-867a-616ae3d17d78)
+)
 
 1. **Initialization**: Starts at the `__start__` node.
 2. **Main Interaction Hub**: The `main_agent` directs users to specific functionalities.
