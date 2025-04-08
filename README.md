@@ -21,7 +21,7 @@ Welcome to the AI Agent for Real Estate Professionals. This application is desig
 
 ### Application Workflow
 
-![AI agents graph]([image](https://github.com/user-attachments/assets/364c8f3a-d59a-4da1-bab3-1af88fd0dc47)
+![AI agents graph]([!image](https://github.com/user-attachments/assets/364c8f3a-d59a-4da1-bab3-1af88fd0dc47)
 
 )
 
